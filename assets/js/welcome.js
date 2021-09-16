@@ -1,0 +1,1 @@
+setTimeout(() => open(location, '_self').close(), 5000)

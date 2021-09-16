@@ -1,0 +1,15 @@
+div {
+  text-align: center;
+  background-color: var(--bs-dark);
+  opacity: 1;
+  display: block;
+  width: 400px;
+  height: 600px;
+}
+
+p {
+  opacity: 1;
+  display: inline;
+  font-size: 20pt;
+}
+

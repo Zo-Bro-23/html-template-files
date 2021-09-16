@@ -1,0 +1,53 @@
+.py {
+  padding-top: 10px!important;
+}
+
+.py2 {
+  padding-top: 10px!important;
+}
+
+.para {
+  color: #e785ae;
+  font-size: 30pt;
+}
+
+.welcome {
+  color: #00ccff;
+}
+
+@media (min-width:768px) {
+  .py-md {
+    padding-top: 50%!important;
+  }
+}
+
+@media (min-width:768px) {
+  .py-md2 {
+    padding-bottom: 15%!important;
+  }
+}
+
+@media (min-width:768px) {
+  .para {
+    font-size: 25pt;
+  }
+}
+
+@media (min-width:768px) {
+  .welcome {
+    font-size: 35pt;
+  }
+}
+
+@media (min-width:768px) {
+  #img {
+    width: 100%;
+  }
+}
+
+@media (min-width:768px) {
+  #tick {
+    width: 10%;
+  }
+}
+
